@@ -1,2 +1,2 @@
 #!/bin/bush
-egrep "root" /etc/passwd
+egrep 'root' /etc/passwd
